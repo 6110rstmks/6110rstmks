@@ -1,9 +1,13 @@
 sakamotosora
 
 バックエンド　laravel
+\
 フロントエンド　react vue(Reactに変えました）tailwind
+\
 使用OS　Ubuntu
+\
 インフラ　docker AWS
+\
 Webサーバソフト　apache
 
 2023/02~ HRテック企業にてバックエンドエンジニア
