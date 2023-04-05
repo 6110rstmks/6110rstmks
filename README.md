@@ -10,7 +10,7 @@ sakamotosora 2002/01/16
 \
 Webサーバソフト　apache
 
-2023/02~ HRテック企業にてバックエンドエンジニア
+2023/02~ HRテック企業にて新米バックエンドエンジニア
 
 ### github account related to php
 
