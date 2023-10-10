@@ -1,4 +1,4 @@
-sakamotosora 2002/01/16
+sakamotosora
 
 バックエンド　laravel
 \
@@ -9,8 +9,6 @@ sakamotosora 2002/01/16
 インフラ　docker AWS
 \
 Webサーバソフト　apache
-
-2023/02~ HRテック企業にて新米バックエンドエンジニア
 
 ### github account related to php
 
