@@ -2,7 +2,7 @@ sakamotosora
 
 バックエンド　laravel
 \
-フロントエンド　react vue(Reactに変えました）tailwind
+フロントエンド　react tailwind
 \
 使用OS　Ubuntu
 \
