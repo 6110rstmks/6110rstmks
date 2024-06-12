@@ -1,12 +1,14 @@
 sakamotosora
 
-バックエンド　FastAPI Laravel
+backend　FastAPI Laravel
 \
-フロントエンド　React tailwind
+frontend　React tailwind
 \
 インフラ　docker AWS terraform
 \
-Webサーバソフト　apache
+WebServerSoftware　apache nginx
+\
+DB Mysql PostgreSql
 \
 DWH snowflake
 \
@@ -31,6 +33,11 @@ https://github.com/docker-rstmks
 ### github account related to terraform
 
 https://github.com/terraform-rstmks
+
+### github account related to dataenginnering
+
+https://github.com/dataenginnering-rstmks
+
 
 ***
 
