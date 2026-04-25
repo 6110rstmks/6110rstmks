@@ -1,21 +1,21 @@
 坂本碧
 
-backend　FastAPI Laravel
+backend: FastAPI Laravel
 \
-frontend　React
+frontend: React
 \
-Infra　docker AWS
+Infra: docker AWS
 \
-WebServerSoftware　apache nginx
+WebServerSoftware: apache nginx
 \
-DB Mysql PostgreSql
+DB: Mysql PostgreSql
 \
-DWH snowflake redshift
+DWH: Snowflake redshift
 \
-ELT dbt
+ELT: dbt
 \
-IaC terraform
+IaC: Terraform
 \
-WorkflowEngine Airflow
+WorkflowEngine: Airflow
 \
-CI/CD GitHub Actions
+CI/CD: GitHub Actions
