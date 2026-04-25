@@ -4,7 +4,7 @@ backend　FastAPI Laravel
 \
 frontend　React
 \
-インフラ　docker AWS
+Infra　docker AWS
 \
 WebServerSoftware　apache nginx
 \
@@ -16,4 +16,6 @@ ELT dbt
 \
 IaC terraform
 \
-ワークフローエンジン Airflow
+WorkflowEngine Airflow
+\
+CI/CD GitHub Actions
